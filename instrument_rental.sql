@@ -1,0 +1,10 @@
+insert into instrument_rental (type, in_stock, price) values ('bass', true, 28);
+insert into instrument_rental (type, in_stock, price) values ('guitar', true, 45);
+insert into instrument_rental (type, in_stock, price) values ('guitar', true, 71);
+insert into instrument_rental (type, in_stock, price) values ('drums', true, 78);
+insert into instrument_rental (type, in_stock, price) values ('flute', true, 26);
+insert into instrument_rental (type, in_stock, price) values ('trumpet', false, 66);
+insert into instrument_rental (type, in_stock, price) values ('harm', true, 39);
+insert into instrument_rental (type, in_stock, price) values ('accordion', false, 80);
+insert into instrument_rental (type, in_stock, price) values ('guitar', false, 59);
+insert into instrument_rental (type, in_stock, price) values ('piano', true, 93);
